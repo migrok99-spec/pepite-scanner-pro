@@ -3,3 +3,4 @@ yfinance
 pandas
 plotly
 fpdf2
+kaleido
