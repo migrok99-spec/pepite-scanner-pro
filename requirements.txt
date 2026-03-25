@@ -1,0 +1,6 @@
+yfinance
+pandas
+streamlit
+plotly
+fpdf2
+kaleido
